@@ -1,12 +1,12 @@
-states,aqi,population
-haryana,146,74889
-delhi,143,48751
-uttrakhand,118,55425
-punjab,113,54854
-rajasthan,110,54651
-jammu kashmir,108,56415
-daman,97,13453
-uttar pradesh,95,25413
-gujarat,91,12452
-madhya pradesh,90,12432
-kerala,87,33543
+states,aqi,population,co2
+haryana,146,74889,657
+delhi,143,48751,465
+uttrakhand,118,55425,856
+punjab,113,54854,966
+rajasthan,110,54651,989
+jammu kashmir,108,56415,454
+daman,97,13453,265
+uttar pradesh,95,25413,549
+gujarat,91,12452,329
+madhya pradesh,90,12432,359
+kerala,87,33543,265
